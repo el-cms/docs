@@ -18,10 +18,5 @@ When you create a link, you have these options:
   * *Desription:* Title attribute
   * *Rel:* Rel attribute
   * *Target:* Target attribute
-  * *Params: A list of parameters for the link.*
-
-## Params
-The _Params_ field allows you to define additionnal parameters for the link. As this field is linked to the [ParamsBehaviour](../developpers/behaviours/params), parameters should be defined as a list of one key/value per line.
-For now the only parameter recognized is the `linkAttr`, which should contain a list of link attributes, as follow:
-
-    [options:linkAttr attr1=val1 attr2=val2]
+  * *Params:*
+.. Todo:: Find params documentation....
